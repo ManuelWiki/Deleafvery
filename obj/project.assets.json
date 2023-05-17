@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\manue\\.nuget\\packages\\": {}
+    "C:\\Users\\edgar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\VB\\Deleafvery\\Deleafvery.vbproj",
+      "projectUniqueName": "C:\\Users\\edgar\\OneDrive\\Escritorio\\proyectos\\Deleafvery\\Deleafvery.vbproj",
       "projectName": "Deleafvery",
-      "projectPath": "D:\\Proyectos\\VB\\Deleafvery\\Deleafvery.vbproj",
-      "packagesPath": "C:\\Users\\manue\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\VB\\Deleafvery\\obj\\",
+      "projectPath": "C:\\Users\\edgar\\OneDrive\\Escritorio\\proyectos\\Deleafvery\\Deleafvery.vbproj",
+      "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edgar\\OneDrive\\Escritorio\\proyectos\\Deleafvery\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\manue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
