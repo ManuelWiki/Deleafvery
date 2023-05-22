@@ -27,20 +27,20 @@ Partial Class Form1
         ' 
         ' Button1
         ' 
-        Button1.Location = New Point(284, 53)
+        Button1.Location = New Point(167, 28)
+        Button1.Margin = New Padding(3, 2, 3, 2)
         Button1.Name = "Button1"
-        Button1.Size = New Size(94, 29)
+        Button1.Size = New Size(274, 232)
         Button1.TabIndex = 0
-        Button1.Text = "Button1"
+        Button1.Text = "vencha que grande"
         Button1.UseVisualStyleBackColor = True
         ' 
         ' Form1
         ' 
-        AutoScaleDimensions = New SizeF(8F, 20F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(738, 411)
+        ClientSize = New Size(646, 308)
         Controls.Add(Button1)
-        Margin = New Padding(3, 4, 3, 4)
         Name = "Form1"
         Text = "Form1"
         ResumeLayout(False)
